@@ -1,5 +1,5 @@
 # Bromite Adblocker
-Filters custom repository from Bromite Adblocker Engine.
+Filters used by Bromite AdBlock engine (Custom Repository)
 
 # How To Use
 1. Open Bromite Browser
