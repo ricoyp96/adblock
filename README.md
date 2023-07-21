@@ -7,3 +7,4 @@ Filters used by Bromite AdBlock engine (Custom Repository)
 3. Choose AdBlock Settings
 4. Enter Filters URL : https://raw.githubusercontent.com/ricoyp96/adblock/main/filters.dat
 5. Click Save
+6. Don't forget to enable this feature! ;)
